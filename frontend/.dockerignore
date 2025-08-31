@@ -1,0 +1,21 @@
+# dependency directories
+node_modules
+npm-debug.log
+
+
+# build output
+dist
+build
+.cache
+
+# test & dev
+cypress
+coverage
+
+# misc
+.DS_Store
+.vscode
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
